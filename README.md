@@ -15,8 +15,8 @@ This Python application is a scientific calculator built using Tkinter. It suppo
 - Responsive grid layout
 
 ## Requirements:
-- **Python 3.x**
-- **Tkinter** (included with Python)
+- Python 3.x
+- Tkinter (included with Python)
 
 Ensure you have Python installed. You can download it from [python.org](https://www.python.org/).
 
