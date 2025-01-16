@@ -42,7 +42,7 @@ To run the script, follow these steps:
 
 ### Example Output:
 ```bash
-![](https://scontent.fdac178-1.fna.fbcdn.net/v/t39.30808-6/473619514_122136009782552158_767090033486993121_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=RvnAq2LPOw8Q7kNvgFVbaBm&_nc_zt=23&_nc_ht=scontent.fdac178-1.fna&_nc_gid=A1NwyIiWNUqIBYMkRU-IXxA&oh=00_AYDmNRuS5V46awJaT1rfpNS_W83FFhHuSmvDQ93TM3XXeg&oe=678EA0E4)
+![](https://scontent.fdac178-1.fna.fbcdn.net/v/t39.30808-6/473619514_122136009782552158_767090033486993121_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=RvnAq2LPOw8Q7kNvgFVbaBm&_nc_zt=23&_nc_ht=scontent.fdac178-1.fna&_nc_gid=AcBfKUTTM7Cm2xx33xdoqKq&oh=00_AYALlDqMGtk3Atq1cFFqQ9OEvP1qpyQThr0KwH-r6n4iTw&oe=678EA0E4)
 ```
 
 ## Code Explanation
